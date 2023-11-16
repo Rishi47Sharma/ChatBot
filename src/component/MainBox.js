@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./Chatbot.css";
 const API_KEY =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMjEwNjU0NWEtYWU5NC00ZTM2LWI5Y2UtNzFlYWQ5OTYyMjE4IiwidHlwZSI6ImFwaV90b2tlbiJ9.pL9Fbl2EN_fDzs7kBPVOLDxNmh2Rvn7dYMfvEcTXkf8";
+  "***************************************************************************************************************************************************";
 const Chatbot = () => {
   const [input, setInput] = useState("");
   const [messages, setMessages] = useState([]);
